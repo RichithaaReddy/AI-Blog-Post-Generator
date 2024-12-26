@@ -41,7 +41,7 @@ def generate_blog_post(model, topic, num_words, style):
         return f"Error during generation: {str(e)}"
 
 def main():
-    st.title("Blog Post Generator")
+    st.title("AI Blog Post Generator")
 
     # Get user input
     topic = st.text_input("Enter the topic of your blog:")

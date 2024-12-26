@@ -4,3 +4,4 @@ langchain
 python-box
 streamlit 
 sentence-transformers
+langchain-community
